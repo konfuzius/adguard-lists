@@ -151,3 +151,4 @@
 @@||youtube.com^$important
 @@||zaxid.net^$important
 @@||zn.ua^$important
+@@||toloka.to^$important
