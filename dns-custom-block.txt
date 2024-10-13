@@ -5,3 +5,4 @@
 ||mail.ru^$important
 ||d.adup-tech.com^$important
 ||cdn.cookielaw.org^$important
+||mayevski.de^
