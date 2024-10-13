@@ -1,17 +1,17 @@
 ! Title: AdGuard custom allow list
 
-@@*.browserstack.com
-@@*.cleverreach.com
-@@*.dominos.de
-@@*.duckdns.org
-@@*.duden.de
-@@*.free-now.com
-@@*.gov.ua
-@@*.ingame.de
-@@*.mediamarkt.de
-@@*.spiegel.de
-@@*.txxx.com
-@@*.txxx.tube
+@@browserstack.com
+@@cleverreach.com
+@@dominos.de
+@@duckdns.org
+@@duden.de
+@@free-now.com
+@@gov.ua
+@@ingame.de
+@@mediamarkt.de
+@@spiegel.de
+@@txxx.com
+@@txxx.tube
 @@24tv.ua
 @@9gag.com
 @@aax-eu.amazon.de
