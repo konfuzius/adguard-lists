@@ -1,5 +1,6 @@
 ! Title: AdGuard custom allow list
 
+@@ad.doubleclick.net^$important
 @@browserstack.com^$important
 @@cleverreach.com^$important
 @@dominos.de^$important
