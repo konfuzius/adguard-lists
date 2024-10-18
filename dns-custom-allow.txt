@@ -151,5 +151,3 @@
 @@zn.ua^$important
 @@toloka.to^$important
 @@met.vgwort.de
-html-load.com$script,domain=flatpanelshd.com
-*$csp=script-src-attr 'none',domain=flatpanelshd.com
