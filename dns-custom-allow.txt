@@ -151,6 +151,5 @@
 @@zn.ua^$important
 @@toloka.to^$important
 @@met.vgwort.de
-Try this, and tell us if something is broken: ( How to add custom filter )
 html-load.com$script,domain=flatpanelshd.com
 *$csp=script-src-attr 'none',domain=flatpanelshd.com
