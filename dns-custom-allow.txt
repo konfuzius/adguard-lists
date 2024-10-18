@@ -134,12 +134,9 @@
 @@vimeocdn.com^$important
 @@web.telegram.org^$important
 @@web.whatsapp.com^$important
-@@wfcdn.de^$important
-@@wfcdn.de^$important
 @@whatsapp.com^$important
 @@whatsapp.net^$important
 @@whowhatwhy.org^$important
-@@winfuture.de^$important
 @@wizrocketmail.net^$important
 @@wiztube.xyz^$important
 @@wl.spotify.com^$important
