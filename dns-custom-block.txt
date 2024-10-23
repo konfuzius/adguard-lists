@@ -26,3 +26,7 @@
 ||domself.de^$important
 ||privacy-mgmt.com^$important
 ||static.chartbeat.com^$important
+||global.poe.live-video.net^$important
+||irc-ws.chat.twitch.tv^$important
+||pubsub-edge.twitch.tv^$important
+||static.twitchcdn.net^$important
