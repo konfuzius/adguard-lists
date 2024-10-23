@@ -150,4 +150,5 @@
 @@zaxid.net^$important
 @@zn.ua^$important
 @@toloka.to^$important
-@@met.vgwort.de
+@@met.vgwort.de^$important
+@@apple.sjv.io^$important
