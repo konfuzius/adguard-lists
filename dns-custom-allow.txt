@@ -152,3 +152,10 @@
 @@toloka.to^$important
 @@met.vgwort.de^$important
 @@apple.sjv.io^$important
+@@firebaseinstallations.googleapis.com^$important
+@@firebase-settings.crashlytics.com^$important
+@@crashlyticsreports-pa.googleapis.com^$important
+@@firebaselogging-pa.googleapis.com^$important
+@@geller-pa.googleapis.com^$important
+@@semanticlocation-pa.googleapis.com^$important
+@@locationhistory-pa.googleapis.com^$important
