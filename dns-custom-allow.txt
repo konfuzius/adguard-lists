@@ -120,3 +120,5 @@
 @@semanticlocation-pa.googleapis.com^$important
 @@locationhistory-pa.googleapis.com^$important
 @@irc-ws.chat.twitch.tv^$important
+@@spiegel.de^$important
+@@svcs.ebay.com^$important
