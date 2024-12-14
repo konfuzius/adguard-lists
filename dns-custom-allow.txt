@@ -1,3 +1,4 @@
+@@googleadservices.com^$important
 @@browserstack.com^$important
 @@cleverreach.com^$important
 @@dominos.de^$important
