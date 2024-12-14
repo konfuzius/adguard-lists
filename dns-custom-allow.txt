@@ -1,17 +1,15 @@
-! Title: AdGuard custom allow list
-
 @@ad.doubleclick.net^$important
 @@browserstack.com^$important
 @@cleverreach.com^$important
 @@dominos.de^$important
 @duckdns.org^$important
 @@duden.de^$important
-@free-now.com^$important
+@@free-now.com^$important
 @@gov.ua^$important#
 @@ingame.de^$important
 @@txxx.com^$important
 @@txxx.tube^$important
-@24tv.ua^$important
+@@24tv.ua^$important
 @@9gag.com^$important
 @@aax-eu.amazon.de^$important
 @@api-glb-aeun1a.smoot.apple.com^$important
