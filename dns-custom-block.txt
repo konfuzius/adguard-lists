@@ -1,7 +1,3 @@
-! Title: AdGuard custom block list
-
-! ||www.googleadservices.com^$important
-! ||doubleclick.net^$important
 ||mail.ru^$important
 ||d.adup-tech.com^$important
 ||cdn.cookielaw.org^$important
