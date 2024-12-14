@@ -2,7 +2,7 @@
 @@browserstack.com^$important
 @@cleverreach.com^$important
 @@dominos.de^$important
-@duckdns.org^$important
+@@duckdns.org^$important
 @@duden.de^$important
 @@free-now.com^$important
 @@gov.ua^$important#
