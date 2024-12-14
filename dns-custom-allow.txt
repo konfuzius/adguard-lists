@@ -1,4 +1,3 @@
-@@ad.doubleclick.net^$important
 @@browserstack.com^$important
 @@cleverreach.com^$important
 @@dominos.de^$important
@@ -11,8 +10,6 @@
 @@txxx.tube^$important
 @@24tv.ua^$important
 @@9gag.com^$important
-@@aax-eu.amazon.de^$important
-@@api-glb-aeun1a.smoot.apple.com^$important
 @@api.smoot.apple.com^$important
 @@apiservices.krxd.net^$important
 @@apondo.de^$important
@@ -47,11 +44,9 @@
 @@googlevideo.com^$important
 @@graph.facebook.com^$important
 @@hifi.de^$important
-@@i.instagram.com^$important
 @@idealo-partner.com^$important
 @@image.mail.cyberport.de^$important
-@@imap.gmail.com^$important
-@@instagram.com^$important
+@@smtp.gmail.com^$important
 @@itc.ua^$important
 @@listen.tunein.com^$important
 @@mmg.whatsapp.net^$important
@@ -77,9 +72,6 @@
 @@rbc.ua^$important
 @@reactor.cc^$important
 @@redditvideodl.com^$important
-@@rgfootball.net^$important
-@@rollingstone.de^$important
-@@rsload.net^$important
 @@rubryka.com^$important
 @@rv.ua^$important
 @@seonify.com^$important
@@ -89,7 +81,6 @@
 @@sport1.de^$important
 @@store4porn.com^$important
 @@tagm.tchibo.de^$important
-@@tarnkappe.info^$important
 @@tgtube.com^$important
 @@tiktokcdn.com^$important
 @@toloka.to^$important
@@ -108,15 +99,6 @@
 @@zaxid.net^$important
 @@zn.ua^$important
 @@toloka.to^$important
-@@met.vgwort.de^$important
-@@apple.sjv.io^$important
-@@firebaseinstallations.googleapis.com^$important
-@@firebase-settings.crashlytics.com^$important
-@@crashlyticsreports-pa.googleapis.com^$important
-@@firebaselogging-pa.googleapis.com^$important
-@@geller-pa.googleapis.com^$important
-@@semanticlocation-pa.googleapis.com^$important
-@@locationhistory-pa.googleapis.com^$important
 @@irc-ws.chat.twitch.tv^$important
 @@spiegel.de^$important
 @@svcs.ebay.com^$important
