@@ -1,4 +1,7 @@
 @@googleadservices.com^$important
+@@ad.doubleclick.net^$important
+@@onelink.com^$important
+@@ukr.net^$important
 @@browserstack.com^$important
 @@cleverreach.com^$important
 @@dominos.de^$important
