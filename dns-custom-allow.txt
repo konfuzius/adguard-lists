@@ -3,6 +3,7 @@
 @@netcup.net^$important
 @@gmail.com^$important
 @@office.com^$important
+@@icloud.com^$important
 @@onelink.com^$important
 @@ukr.net^$important
 @@browserstack.com^$important
