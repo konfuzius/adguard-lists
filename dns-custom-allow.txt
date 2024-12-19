@@ -2,6 +2,7 @@
 @@ad.doubleclick.net^$important
 @@netcup.net^$important
 @@gmail.com^$important
+@@adtidy.org^$important
 @@office.com^$important
 @@icloud.com^$important
 @@onelink.com^$important
