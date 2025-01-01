@@ -46,7 +46,6 @@
 @@futurezone.de^$important
 @@gamepro.de^$important
 @@gazeta.ua^$important
-@@glavcom.ua^$important
 @@googlevideo.com^$important
 @@hifi.de^$important
 @@pvn.mediamarkt.de^$important
