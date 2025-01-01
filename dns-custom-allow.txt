@@ -13,7 +13,7 @@
 @@duckdns.org^$important
 @@duden.de^$important
 @@free-now.com^$important
-@@gov.ua^$important#
+@@gov.ua^$important
 @@ingame.de^$important
 @@txxx.com^$important
 @@txxx.tube^$important
