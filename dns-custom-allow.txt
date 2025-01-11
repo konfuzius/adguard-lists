@@ -1,12 +1,14 @@
 @@googleadservices.com^$important
 @@ad.doubleclick.net^$important
 @@netcup.net^$important
+@@gmail.com^$important
 @@adtidy.org^$important
 @@outlook.office365.com^$important
 @@onelink.com^$important
 @@ukr.net^$important
 @@browserstack.com^$important
 @@cleverreach.com^$important
+@@dominos.de^$important
 @@duckdns.org^$important
 @@duden.de^$important
 @@free-now.com^$important
