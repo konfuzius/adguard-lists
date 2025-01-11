@@ -64,4 +64,3 @@
 @@adj.st^$important
 @@onelink.me^$important
 @@web.facebook.com^$important
-@@rbc.ua^$important
