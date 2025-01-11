@@ -2,7 +2,6 @@
 @@ad.doubleclick.net^$important
 @@netcup.net^$important
 @@adtidy.org^$important
-@@icloud.com^$important
 @@outlook.office365.com^$important
 @@onelink.com^$important
 @@ukr.net^$important
