@@ -17,7 +17,7 @@
 @@txxx.com^$important
 @@txxx.tube^$important
 @@24tv.ua^$important
-@@9gag.com^$important
+@@gofile.io^$important
 @@apondo.de^$important
 @@appboy-images.com^$important
 @@bilshe.com^$important
@@ -38,6 +38,8 @@
 @@web.whatsapp.com^$important
 @@efa.de^$important
 @@elle.ua^$important
+@@www.spiegel.de^$important
+@@cdn.privacy-mgmt.com^$important
 @@brevo.com^$important
 @@espreso.tv^$important
 @@fonts.gstatic.com^$important
@@ -66,3 +68,8 @@
 @@adj.st^$important
 @@onelink.me^$important
 @@web.facebook.com^$important
+@@prf.hn^$important
+@@consentv2.sport1.de^$important
+@@app.adjust.com^$important
+@@gs.statcounter.com^$important
+@@rbc.ua^$important
