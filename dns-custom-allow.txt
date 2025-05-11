@@ -1,7 +1,6 @@
 @@googleadservices.com^$important
 @@ad.doubleclick.net^$important
 @@netcup.net^$important
-@@gmail.com^$important
 @@adtidy.org^$important
 @@outlook.office365.com^$important
 @@onelink.com^$important
@@ -16,7 +15,6 @@
 @@ingame.de^$important
 @@txxx.com^$important
 @@txxx.tube^$important
-@@24tv.ua^$important
 @@gofile.io^$important
 @@apondo.de^$important
 @@appboy-images.com^$important
@@ -24,7 +22,6 @@
 @@bs-local.com^$important
 @@buhl.de^$important
 @@cdninstagram.com^$important
-@@celebjihad.com^$important
 @@cutt.ly^$important
 @@deepl.com^$important
 @@congstar.de^$important
@@ -47,8 +44,6 @@
 @@futurezone.de^$important
 @@gamepro.de^$important
 @@gazeta.ua^$important
-@@googlevideo.com^$important
-@@hifi.de^$important
 @@pvn.mediamarkt.de^$important
 @@itc.ua^$important
 @@p.typekit.net^$important
@@ -63,7 +58,6 @@
 @@web.telegram.org^$important
 @@zaxid.net^$important
 @@zn.ua^$important
-@@toloka.to^$important
 @@irc-ws.chat.twitch.tv^$important
 @@adj.st^$important
 @@onelink.me^$important
