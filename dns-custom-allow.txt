@@ -73,3 +73,9 @@
 @@app.adjust.com^$important
 @@gs.statcounter.com^$important
 @@rbc.ua^$important
+@@player.stats.live-video.net^$important
+@@linksandlikes.de^$important
+@@linksandlikes.online^$important
+@@1.envato.market^$important
+@@pubsub-edge.twitch.tv^$important
+@@static.twitchcdn.net^$important
