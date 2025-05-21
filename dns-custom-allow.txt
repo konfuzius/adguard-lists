@@ -71,7 +71,6 @@
 @@linksandlikes.de^$important
 @@linksandlikes.online^$important
 @@1.envato.market^$important
-@@pubsub-edge.twitch.tv^$important
 @@static.twitchcdn.net^$important
 @@neowin.net^$important
 @@noodlemagazine.com^$important
