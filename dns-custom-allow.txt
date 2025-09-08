@@ -74,3 +74,9 @@
 @@static.twitchcdn.net^$important
 @@neowin.net^$important
 @@noodlemagazine.com^$important
+@@privacy-mgmt.com^$important
+@@eu-mobile.events.data.microsoft.com^$important
+@@self.events.data.microsoft.com^$important
+@@teams.events.data.microsoft.com^$important
+@@eu-teams.events.data.microsoft.com^$important
+@@ic3.events.data.microsoft.com^$important
