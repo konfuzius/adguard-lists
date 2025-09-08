@@ -26,3 +26,6 @@
 ||irc-ws.chat.twitch.tv^$important
 ||pubsub-edge.twitch.tv^$important
 ||static.twitchcdn.net^$important
+||player.stats.live-video.net^$important
+||irc-ws.chat.twitch.tv^$important
+||hermes.twitch.tv^$important
