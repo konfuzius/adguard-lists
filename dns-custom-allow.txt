@@ -1,5 +1,6 @@
 !@@googleadservices.com^$important
 !@@ad.doubleclick.net^$important
+!@@cdn.privacy-mgmt.com^$important
 @@netcup.net^$important
 @@outlook.office365.com^$important
 @@onelink.com^$important
@@ -34,8 +35,7 @@
 @@web.whatsapp.com^$important
 @@efa.de^$important
 @@elle.ua^$important
-@@www.spiegel.de^$important
-@@cdn.privacy-mgmt.com^$important
+@@spiegel.de^$important
 @@brevo.com^$important
 @@espreso.tv^$important
 @@fonts.gstatic.com^$important
