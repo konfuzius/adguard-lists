@@ -1,4 +1,5 @@
 !@@ad.doubleclick.net^$important
+!@@privacy-mgmt.com^$important
 !@@cdn.privacy-mgmt.com^$important
 !@@googleadservices.com^$important
 !@@optimizationguide-pa.googleapis.com^$important
@@ -60,7 +61,6 @@
 @@post.de^$important
 @@pravda.com.ua^$important
 @@prf.hn^$important
-@@privacy-mgmt.com^$important
 @@pvn.mediamarkt.de^$important
 @@raidrush.org^$important
 @@raidrush.ws^$important
