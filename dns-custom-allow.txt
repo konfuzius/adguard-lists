@@ -1,6 +1,7 @@
 !@@googleadservices.com^$important
 !@@ad.doubleclick.net^$important
 !@@cdn.privacy-mgmt.com^$important
+!@@optimizationguide-pa.googleapis.com^$important
 @@netcup.net^$important
 @@outlook.office365.com^$important
 @@onelink.com^$important
@@ -81,5 +82,4 @@
 @@ic3.events.data.microsoft.com^$important
 @@library.iterable.com^$important
 @@bing.com^$important
-@@optimizationguide-pa.googleapis.com^$important
 @@instagram.com^$important
