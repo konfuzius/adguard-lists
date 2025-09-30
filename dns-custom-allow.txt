@@ -1,7 +1,6 @@
 @@googleadservices.com^$important
 @@ad.doubleclick.net^$important
 @@netcup.net^$important
-@@adtidy.org^$important
 @@outlook.office365.com^$important
 @@onelink.com^$important
 @@ukr.net^$important
