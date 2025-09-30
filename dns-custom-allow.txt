@@ -1,5 +1,5 @@
-@@googleadservices.com^$important
-@@ad.doubleclick.net^$important
+!@@googleadservices.com^$important
+!@@ad.doubleclick.net^$important
 @@netcup.net^$important
 @@outlook.office365.com^$important
 @@onelink.com^$important
