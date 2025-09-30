@@ -2,6 +2,7 @@
 !@@cdn.privacy-mgmt.com^$important
 !@@googleadservices.com^$important
 !@@optimizationguide-pa.googleapis.com^$important
+!@@fonts.gstatic.com^$important
 @@1.envato.market^$important
 @@adj.st^$important
 @@apondo.de^$important
@@ -32,7 +33,6 @@
 @@espreso.tv^$important
 @@eu-mobile.events.data.microsoft.com^$important
 @@eu-teams.events.data.microsoft.com^$important
-@@fonts.gstatic.com^$important
 @@free-now.com^$important
 @@futurezone.de^$important
 @@gamepro.de^$important
