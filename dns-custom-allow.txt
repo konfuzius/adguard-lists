@@ -83,3 +83,11 @@
 @@whatsapp.net^$important
 @@zaxid.net^$important
 @@zn.ua^$important
+@@t.dripemail2.com^$important
+@@eu.spgo.io^$important
+@@image.crocs-email.com^$important
+@@ws.sonos.com^$important
+@@spiegel.de^$important
+@@test.de^$important
+@@pxf.io^$important
+@@ogads-pa.client6.google.com^$important
