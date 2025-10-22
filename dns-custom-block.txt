@@ -27,3 +27,5 @@
 ||uobsoe.com^$important
 ||upsun.com^$important
 ||vk.com^$important
+||gql.twitch.tv^$important
+||assets.twitch.tv^$important
