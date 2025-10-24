@@ -91,3 +91,5 @@
 @@test.de^$important
 @@pxf.io^$important
 @@ogads-pa.client6.google.com^$important
+@@hostingersite.com^$important
+@@hostinger.com^$important
