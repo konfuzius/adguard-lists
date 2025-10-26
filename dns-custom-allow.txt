@@ -2,7 +2,6 @@
 !@@privacy-mgmt.com^$important
 !@@cdn.privacy-mgmt.com^$important
 !@@googleadservices.com^$important
-!@@optimizationguide-pa.googleapis.com^$important
 !@@fonts.gstatic.com^$important
 @@1.envato.market^$important
 @@adj.st^$important
@@ -25,15 +24,12 @@
 @@dm-event.net^$important
 @@dominos.com^$important
 @@dominos.de^$important
-@@dominos.de^$important
 @@duckdns.org^$important
 @@duden.de^$important
 @@e.customeriomail.com^$important
 @@efa.de^$important
 @@elle.ua^$important
 @@espreso.tv^$important
-@@eu-mobile.events.data.microsoft.com^$important
-@@eu-teams.events.data.microsoft.com^$important
 @@free-now.com^$important
 @@futurezone.de^$important
 @@gamepro.de^$important
@@ -41,7 +37,6 @@
 @@gofile.io^$important
 @@gov.ua^$important
 @@gs.statcounter.com^$important
-@@ic3.events.data.microsoft.com^$important
 @@ingame.de^$important
 @@instagram.com^$important
 @@irc-ws.chat.twitch.tv^$important
@@ -54,7 +49,6 @@
 @@noodlemagazine.com^$important
 @@onelink.com^$important
 @@onelink.me^$important
-@@outlook.office365.com^$important
 @@p.typekit.net^$important
 @@parcelapp.net^$important
 @@player.stats.live-video.net^$important
@@ -65,7 +59,6 @@
 @@raidrush.org^$important
 @@raidrush.ws^$important
 @@rbc.ua^$important
-@@self.events.data.microsoft.com^$important
 @@speedtest.net^$important
 @@spiegel.de^$important
 @@static.twitchcdn.net^$important
@@ -90,6 +83,5 @@
 @@spiegel.de^$important
 @@test.de^$important
 @@pxf.io^$important
-@@ogads-pa.client6.google.com^$important
 @@hostingersite.com^$important
 @@hostinger.com^$important
