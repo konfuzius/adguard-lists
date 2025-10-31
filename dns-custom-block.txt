@@ -28,3 +28,8 @@
 ||upsun.com^$important
 ||vk.com^$important
 ||assets.twitch.tv^$important
+||yastatic.net^$important
+||yandex.net^$important
+||yandex.com^$important
+||html-load.com^$important
+||*.ru^$important
