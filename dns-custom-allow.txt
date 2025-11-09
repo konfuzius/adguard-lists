@@ -37,12 +37,15 @@
 @@gofile.io^$important
 @@gov.ua^$important
 @@gs.statcounter.com^$important
+@@hostinger.com^$important
+@@hostingersite.com^$important
 @@ingame.de^$important
 @@instagram.com^$important
 @@irc-ws.chat.twitch.tv^$important
 @@itc.ua^$important
 @@library.iterable.com^$important
 @@linksandlikes.de^$important
+@@linksandlikes.dev^$important
 @@linksandlikes.online^$important
 @@neowin.net^$important
 @@netcup.net^$important
